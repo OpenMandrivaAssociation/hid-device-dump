@@ -1,6 +1,6 @@
 %define name hid-device-dump
 %define version 9.04.04
-%define release %mkrel 1
+%define release %mkrel 2
 
 Summary: hid device dump tool
 Name: %{name}
