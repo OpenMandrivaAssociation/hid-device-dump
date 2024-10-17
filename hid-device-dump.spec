@@ -9,7 +9,7 @@ Release: %{release}
 Source0: %{name}-%{version}.zip
 License: GPLv3+
 Group: System/X11
-Url: http://sourceforge.net/projects/hidtouchsuite/
+Url: https://sourceforge.net/projects/hidtouchsuite/
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
